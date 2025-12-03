@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "SUN",
+  "base_artist": "星野 源",
+  "createdAt": "2025-12-03T07:06:24.077719Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What Goes on When the Sun Goes Down",
+      "artist": "Ronnie Milsap",
+      "has_synced": true,
+      "path": "select/01_What_Goes_on_When_the_Sun_Goes_Down_Ronnie_Milsap.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "House of the Rising Sun",
+      "artist": "alt-J",
+      "has_synced": false,
+      "path": "select/02_House_of_the_Rising_Sun_alt-J.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "House of the Rising Sun",
+      "artist": "alt‐J",
+      "has_synced": true,
+      "path": "select/03_House_of_the_Rising_Sun_alt‐J.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ain't Goin' Down (Til the Sun Comes Up)",
+      "artist": "Brooks Jefferson",
+      "has_synced": true,
+      "path": "select/04_Ain't_Goin'_Down_(Til_the_Sun_Comes_Up)_Brooks_Jefferson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "French Summer Sun",
+      "artist": "Jason Eady",
+      "has_synced": false,
+      "path": "select/05_French_Summer_Sun_Jason_Eady.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sun Daze",
+      "artist": "Florida Georgia Line",
+      "has_synced": true,
+      "path": "select/06_Sun_Daze_Florida_Georgia_Line.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Third Rock from the Sun",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/07_Third_Rock_from_the_Sun_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Third Rock From The Sun (Album Version)",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/08_Third_Rock_From_The_Sun_(Album_Version)_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Third Rock from the Sun",
+      "artist": "Joe Diffie",
+      "has_synced": true,
+      "path": "select/09_Third_Rock_from_the_Sun_Joe_Diffie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Trip Around the Sun",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/10_Trip_Around_the_Sun_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "When the Sun Goes Down",
+      "artist": "Kenny Chesney feat. Uncle Kracker",
+      "has_synced": true,
+      "path": "select/11_When_the_Sun_Goes_Down_Kenny_Chesney_feat._Uncle_Kracker.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "When the Sun Goes Down (Duet With Uncle Kracker)",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/12_When_the_Sun_Goes_Down_(Duet_With_Uncle_Kracker)_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Run in the Morning Sun",
+      "artist": "Lady & Bird",
+      "has_synced": false,
+      "path": "select/13_Run_in_the_Morning_Sun_Lady_&_Bird.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Sun Always Shines on T.V.",
+      "artist": "A-ha",
+      "has_synced": true,
+      "path": "select/14_The_Sun_Always_Shines_on_T.V._A-ha.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sit in the Sun",
+      "artist": "Keren Ann",
+      "has_synced": true,
+      "path": "select/15_Sit_in_the_Sun_Keren_Ann.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Sun",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/16_The_Sun_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Sun",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/17_The_Sun_Maroon_5.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SUN",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_SUN_星野源.txt"
+    }
+  ]
+}
